@@ -15,6 +15,7 @@ The program will generate automatically lottery combinations based on the sum of
 
 You can find more information here: 
 - [Exercise1](exercise1.pdf)
+- [Exercise2](exercise2.pdf)
 
 
 ## Contrabuting
