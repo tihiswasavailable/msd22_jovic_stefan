@@ -1,3 +1,8 @@
+## Author: Stefan Jovic
+## Github Link: https://github.com/tihiswasavailable/msd22_jovic_stefan
+## Link of the University: https://www.fh-joanneum.at/data-science-and-artificial-intelligence/master/?gclid=Cj0KCQjwmN2iBhCrARIsAG_G2i6eZr4PAoaePy1izQYJNcmHTL14CYdywMNV9kvDSJc7fmbZI5hgOCsaAlFMEALw_wcB
+
+
 # Lottary combination
 Is a Java program, which calculates lottary combinates. The program generates a random seed based on the current time in milliseconds, adds the digits of the seed together to get a sum, and then generates lottery combinations based on that sum.
 
