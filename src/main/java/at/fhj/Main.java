@@ -1,6 +1,13 @@
     package at.fhj;
     import java.util.Scanner;
 
+
+    /**
+     * The Main class is executing the calculator application.
+     *
+     * @aauthor Stefan Jovic
+    */
+
     public class Main {
 
         public static void main (String[] args){
@@ -32,6 +39,12 @@
             scanner.close();
 
         }
+
+        /**
+         * Scans two double variable from the user via the provided Scanner.
+         * @param scanner The Scanner object used to read the input of the user.
+         * @return An array of two double values provided by the user in the console. 
+         */
 
         public static double[] getInput(Scanner scanner) {
             System.out.println("Please enter two double values:");
